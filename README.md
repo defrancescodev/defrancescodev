@@ -4,25 +4,22 @@
 ## 📊 Git Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=defrancescodev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
----
 
-### 🚀 Languages & Core
+### 🚀 Skills
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js,clojure" alt="Languages" />
   </a>
 </p>
 
-### 🌐 Backend & Infrastructure
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,nodejs,prisma,mongodb,docker" alt="Backend & Tools" />
   </a>
 </p>
 
----
 
 ## 🤝 Find me here
 <p align="left">
