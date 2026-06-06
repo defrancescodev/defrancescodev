@@ -3,7 +3,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=defrancescodev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/defrancescodev/trophy-output/trophy.svg" height="150"/>
 </div>
 
 <div align="center">
