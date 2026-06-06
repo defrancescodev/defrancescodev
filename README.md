@@ -1,10 +1,6 @@
 # Hi there, I'm Samuel 👋
 
 
-## 🛠️ My Skills & Technologies
-
-
-
 ### 🚀 Languages & Core
 <p align="left">
   <a href="https://skillicons.dev">
@@ -23,12 +19,9 @@
 
 ## 📊 Git Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg" width="100%">
-</picture>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 ---
 
 ## 🤝 Find me here
