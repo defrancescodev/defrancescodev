@@ -1,6 +1,13 @@
 # Hi there, I'm Samuel 👋
 
 
+## 📊 Git Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+---
+
 ### 🚀 Languages & Core
 <p align="left">
   <a href="https://skillicons.dev">
@@ -15,13 +22,6 @@
   </a>
 </p>
 
----
-
-## 📊 Git Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 ---
 
 ## 🤝 Find me here
