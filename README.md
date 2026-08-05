@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,prisma,mongodb,docker" alt="Backend & Tools" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,prisma,mongodb,docker, numpy" alt="Backend & Tools" />
   </a>
 </p>
 
